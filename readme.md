@@ -1,4 +1,4 @@
-# Three.js Journey
+# building the page
 
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
